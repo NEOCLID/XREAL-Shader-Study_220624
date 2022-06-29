@@ -1,5 +1,5 @@
 // Shader 시작. 셰이더의 폴더와 이름을 여기서 결정합니다.
-Shader "URPTraining/URPBasic"
+Shader "2ndDayTest"
 {
    
 
